@@ -1,8 +1,8 @@
-# Windows-RDP-ACTIONS
+# Windows-RDP-ACTIONS  #SUBSCRIBE CHANEL EKLESIA TOP
 
 #SUBSCRIBE CHANEL EKLESIA TOP
 
-### Option 1 (Easiest way 🚑- No sound) 
+### Option 1 (Easiest way 🚑- No sound)     #SUBSCRIBE CHANEL EKLESIA TOP
 
 1) Go https://remotedesktop.google.com/headless and login if needed.
 2) Copy Powershell command that page.
